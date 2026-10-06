@@ -1,4 +1,4 @@
-# Actividad-11.-Analizador-de-complejidad
+
 
 # Actividad 11: Backend Integrado - Analizador de Autómatas y Complejidad
 **Estudiante:** Rogelio Sotomayor Carrasco
